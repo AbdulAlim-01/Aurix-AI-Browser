@@ -97,6 +97,5 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ## 📧 Contact
 
-Your Name - [@yourhandle](https://twitter.com/yourhandle) - email@example.com
+Your Name - [@AbdulAlim](https://x.com/CrazzyAlim) - mraalim6838@gmail.com
 
-Project Link: [https://github.com/yourusername/aurix_browser](https://github.com/yourusername/aurix_browser)
