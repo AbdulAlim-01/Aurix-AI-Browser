@@ -9,11 +9,11 @@ Aurix Browser is a next-generation, AI-integrated mobile web browser built with 
 ---
 <img src="https://api.crazzy.dev/upload/images/banner.png"/>
 ## 📸 Screenshots
-<img src="https://api.crazzy.dev/upload/images/1.png"/>
-<img src="https://api.crazzy.dev/upload/images/2.png"/>
-<img src="https://api.crazzy.dev/upload/images/3.png"/>
-<img src="https://api.crazzy.dev/upload/images/4.png"/>
-<img src="https://api.crazzy.dev/upload/images/5.png"/>
+<img src="https://api.crazzy.dev/upload/images/1.png" width="500" />
+<img src="https://api.crazzy.dev/upload/images/2.png"  width="500" />
+<img src="https://api.crazzy.dev/upload/images/3.png"  width="500"/>
+<img src="https://api.crazzy.dev/upload/images/4.png" width="500" />
+<img src="https://api.crazzy.dev/upload/images/5.png" width="500"/>
 ---
 
 ## ✨ Features
