@@ -7,9 +7,13 @@
 Aurix Browser is a next-generation, AI-integrated mobile web browser built with Flutter. It combines traditional browsing with advanced AI capabilities powered by Google Gemini and a robust backend by Supabase.
 
 ---
-<img src="https://api.crazzy.dev/upload/images/banner.png" width="200" />
+<img src="https://api.crazzy.dev/upload/images/banner.png"/>
 ## 📸 Screenshots
-
+<img src="https://api.crazzy.dev/upload/images/1.png"/>
+<img src="https://api.crazzy.dev/upload/images/2.png"/>
+<img src="https://api.crazzy.dev/upload/images/3.png"/>
+<img src="https://api.crazzy.dev/upload/images/4.png"/>
+<img src="https://api.crazzy.dev/upload/images/5.png"/>
 ---
 
 ## ✨ Features
